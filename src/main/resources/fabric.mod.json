@@ -3,11 +3,10 @@
   "id": "storm_crystal_optimizer",
   "version": "1.0.0",
   "name": "Storm Crystal Optimizer",
-  "description": "Maximizes CPvP speed by optimizing crystal render pipe and packets.",
+  "description": "Maximizes CPvP speed by optimizing crystal render pipe.",
   "authors": ["Cinar"],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/storm_crystal_optimizer/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
