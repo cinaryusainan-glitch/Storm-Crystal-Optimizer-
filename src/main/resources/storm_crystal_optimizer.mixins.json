@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.storm.optimizer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EndCrystalMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
